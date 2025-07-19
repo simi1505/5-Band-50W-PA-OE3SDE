@@ -1,0 +1,15 @@
+1206!
+
+1.5nF (1500pF): 1x check
+1nF (1000pF): 3x check
+820pF: 2x check
+680pF: 2x check
+560pF: 3x check (2x 270pF parallel)
+470pF: 3x check
+330pF: 3x check
+220pF: 2x
+180pF: 2x (100pF + 82pF parallel)
+100pF: 2x
+82pF:2x
+
+
